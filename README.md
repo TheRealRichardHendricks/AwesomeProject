@@ -26,4 +26,4 @@ npm run ios
 react-native run-android
 ```
 
-[LinkedIn Profile](https://www.linkedin.com/in/andrejrakic/)
+[🔗 LinkedIn Profile](https://www.linkedin.com/in/andrejrakic/)
