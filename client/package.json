@@ -13,7 +13,7 @@
     "@firebase/messaging": "^0.4.10",
     "apollo-boost": "^0.4.4",
     "apollo-link-ws": "^1.0.18",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "diff-match-patch": "^1.0.4",
     "email-validator": "^2.0.4",
     "graphql": "^14.5.4",
